@@ -11,5 +11,5 @@
 
 ### Example: 
 
-Adds a Note:<br>
+To Add a Note:<br>
 Python ToDoList.py -a"First Note" 
